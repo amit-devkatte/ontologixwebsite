@@ -1,4 +1,29 @@
-:root {
+:root{
+    --primary-blue:#1389C6;
+    --primary-cyan:#1ABCD0;
+
+    --accent-yellow:#FBB10E;
+    --accent-orange:#FA740D;
+    --accent-coral:#F75A48;
+    --accent-pink:#F71F71;
+
+    --white:#FFFFFF;
+    --dark:#1A1A1A;
+
+    --logo-gradient:linear-gradient(
+        135deg,
+        #FBB10E 0%,
+        #FA740D 35%,
+        #F75A48 65%,
+        #F71F71 100%
+    );
+
+    --text-gradient:linear-gradient(
+        180deg,
+        #1ABCD0 0%,
+        #1389C6 100%
+    );
+
   --bg: #f7fbf9;
   --surface: #ffffff;
   --surface-muted: #e8f3ef;
@@ -8,7 +33,7 @@
   --brand-strong: #115e59;
   --accent: #d97706;
   --line: #d9e7e2;
-  --shadow: 0 24px 70px rgba(15, 118, 110, 0.16);
+  --shadow: 0 24px 70px rgba(26, 188, 208, 0.16);
   --radius: 8px;
   --max: 1180px;
 }
@@ -89,9 +114,9 @@ a {
   width: 42px;
   height: 42px;
   border-radius: var(--radius);
-  background: var(--brand);
+  background: var(--primary-cyan);
   color: #fff;
-  box-shadow: 0 10px 26px rgba(15, 118, 110, 0.25);
+  box-shadow: 0 10px 26px rgba(26, 188, 208, 0.25);
 }
 
 .brand small {
@@ -117,7 +142,7 @@ a {
 
 .nav-links a:hover,
 .nav-links a:focus {
-  color: var(--brand-strong);
+  color: var(--primary-blue);
 }
 
 .nav-toggle {
@@ -144,7 +169,7 @@ a {
   overflow: hidden;
   padding: 76px 0 72px;
   background:
-    linear-gradient(120deg, rgba(15, 118, 110, 0.08), rgba(217, 119, 6, 0.08)),
+    linear-gradient(120deg, rgba(26, 188, 208, 0.08), rgba(250, 116, 13, 0.08)),
     linear-gradient(#f7fbf9, #eef7f4);
 }
 
@@ -154,8 +179,8 @@ a {
   content: "";
   opacity: 0.38;
   background-image:
-    linear-gradient(rgba(15, 118, 110, 0.18) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(15, 118, 110, 0.18) 1px, transparent 1px);
+    linear-gradient(rgba(26, 188, 208, 0.18) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(26, 188, 208, 0.18) 1px, transparent 1px);
   background-size: 54px 54px;
 }
 
@@ -242,14 +267,14 @@ h3 {
 }
 
 .button.primary {
-  background: var(--brand);
+  background: var(--primary-cyan);
   color: #fff;
-  box-shadow: 0 18px 36px rgba(15, 118, 110, 0.25);
+  box-shadow: 0 18px 36px rgba(26, 188, 208, 0.25);
 }
 
 .button.primary:hover,
 .button.primary:focus {
-  background: var(--brand-strong);
+  background: var(--primary-blue);
 }
 
 .button.secondary {
@@ -274,7 +299,7 @@ h3 {
 }
 
 .hero-metrics dt {
-  color: var(--brand-strong);
+  color: var(--primary-blue);
   font-size: 1.28rem;
   font-weight: 850;
 }
@@ -313,7 +338,7 @@ h3 {
   min-height: 458px;
   border-radius: var(--radius);
   background:
-    linear-gradient(135deg, rgba(15, 118, 110, 0.1), rgba(217, 119, 6, 0.08)),
+    linear-gradient(135deg, rgba(26, 188, 208, 0.1), rgba(250, 116, 13, 0.08)),
     #f6fbf8;
   overflow: hidden;
 }
@@ -324,7 +349,7 @@ h3 {
   width: 100%;
   height: 100%;
   fill: none;
-  stroke: rgba(15, 118, 110, 0.42);
+  stroke: rgba(26, 188, 208, 0.42);
   stroke-width: 4;
   stroke-linecap: round;
   stroke-dasharray: 10 12;
@@ -339,7 +364,7 @@ h3 {
   min-width: 86px;
   min-height: 54px;
   padding: 0.6rem;
-  border: 1px solid rgba(15, 118, 110, 0.22);
+  border: 1px solid rgba(26, 188, 208, 0.22);
   border-radius: var(--radius);
   background: #fff;
   color: var(--ink);
@@ -367,7 +392,7 @@ h3 {
   width: min(210px, 40%);
   min-height: 108px;
   translate: -50% -50%;
-  background: var(--brand);
+  background: var(--primary-cyan);
   color: #fff;
   text-align: center;
 }
@@ -375,7 +400,7 @@ h3 {
 .node.output {
   right: 5%;
   top: 13%;
-  border-color: rgba(217, 119, 6, 0.32);
+  border-color: rgba(250, 116, 13, 0.32);
 }
 
 .node.output.alt {
@@ -430,7 +455,7 @@ h3 {
 .card-number {
   display: inline-flex;
   margin-bottom: 1.2rem;
-  color: var(--accent);
+  color: var(--accent-orange);
   font-size: 0.8rem;
   font-weight: 850;
 }
@@ -467,7 +492,7 @@ h3 {
   height: 52px;
   border-radius: var(--radius);
   background: var(--surface-muted);
-  color: var(--brand-strong);
+  color: var(--primary-blue);
   font-weight: 850;
 }
 
@@ -492,7 +517,7 @@ h3 {
   height: 36px;
   margin-bottom: 1.1rem;
   border-radius: 50%;
-  background: var(--brand);
+  background: var(--primary-cyan);
   color: #fff;
   font-weight: 850;
 }
@@ -562,7 +587,7 @@ h3 {
 }
 
 .footer a {
-  color: var(--brand-strong);
+  color: var(--primary-blue);
   font-weight: 750;
 }
 
