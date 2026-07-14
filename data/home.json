@@ -1,0 +1,45 @@
+{
+  "trustedBy": ["Data-led enterprises", "Growth companies", "Operations teams", "Finance leaders", "Digital programs"],
+  "stats": [
+    { "value": "8", "label": "Core enterprise service lines" },
+    { "value": "9", "label": "Technology domains covered" },
+    { "value": "'24/7'", "label": "Monitoring-ready delivery mindset" },
+    { "value": "100%", "label": "Accessibility-first interface standard" }
+  ],
+  "why": [
+    {
+      "title": "Built for trust",
+      "description": "We design software and data systems with governance, reliability, security, and accessibility built into the architecture."
+    },
+    {
+      "title": "Enterprise-grade execution",
+      "description": "Our delivery model favors clear ownership, reusable components, documentation, code quality, and measurable outcomes."
+    },
+    {
+      "title": "AI-ready foundations",
+      "description": "We prepare the data, workflow, and evaluation layers required for dependable LLMs, agents, and intelligent automation."
+    },
+    {
+      "title": "Business-first engineering",
+      "description": "Every build starts with the operational decision, customer journey, or performance metric the technology must improve."
+    }
+  ],
+  "process": [
+    {
+      "title": "Diagnose",
+      "description": "Understand business goals, current systems, data quality, users, risk, and execution constraints."
+    },
+    {
+      "title": "Architect",
+      "description": "Define the platform shape, integration model, governance requirements, delivery plan, and adoption path."
+    },
+    {
+      "title": "Build",
+      "description": "Deliver secure software, data pipelines, dashboards, automations, and AI workflows in disciplined increments."
+    },
+    {
+      "title": "Operationalize",
+      "description": "Harden monitoring, documentation, ownership, support, and continuous improvement."
+    }
+  ]
+}

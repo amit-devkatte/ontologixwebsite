@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "senior-data-engineer",
+    "title": "Senior Data Engineer",
+    "team": "Data Platforms",
+    "location": "Remote / India",
+    "type": "Full-time",
+    "summary": "Design and build reliable data pipelines, warehouse models, quality checks, and analytics foundations for enterprise clients.",
+    "responsibilities": [
+      "Architect ingestion, transformation, orchestration, and quality patterns",
+      "Collaborate with analysts, architects, and client stakeholders",
+      "Document lineage, ownership, and operational runbooks"
+    ],
+    "requirements": [
+      "Strong SQL and Python experience",
+      "Hands-on work with Snowflake, Databricks, dbt, Airflow, or similar tools",
+      "Ability to reason clearly about data quality and business definitions"
+    ]
+  },
+  {
+    "slug": "frontend-engineer",
+    "title": "Frontend Engineer",
+    "team": "Product Engineering",
+    "location": "Remote / India",
+    "type": "Full-time",
+    "summary": "Build accessible, performant, enterprise-grade interfaces for software products, portals, and analytics experiences.",
+    "responsibilities": [
+      "Develop reusable React and TypeScript components",
+      "Translate product and design intent into precise interfaces",
+      "Maintain accessibility, performance, and code quality standards"
+    ],
+    "requirements": [
+      "Strong React, TypeScript, and CSS fundamentals",
+      "Experience with Next.js and component systems",
+      "Care for visual details, interaction states, and accessibility"
+    ]
+  },
+  {
+    "slug": "ai-solutions-consultant",
+    "title": "AI Solutions Consultant",
+    "team": "AI & Automation",
+    "location": "Hybrid / India",
+    "type": "Full-time",
+    "summary": "Shape AI, LLM, RAG, and automation opportunities into practical solutions that clients can evaluate and operate.",
+    "responsibilities": [
+      "Assess AI readiness, use-case value, and implementation risk",
+      "Design RAG, agent, and workflow automation patterns",
+      "Partner with engineering teams on prototypes and production pilots"
+    ],
+    "requirements": [
+      "Understanding of LLM applications and enterprise data constraints",
+      "Strong communication and solution design skills",
+      "Experience with Python, APIs, vector databases, or automation tools"
+    ]
+  },
+  {
+    "slug": "business-intelligence-analyst",
+    "title": "Business Intelligence Analyst",
+    "team": "Analytics",
+    "location": "Remote / India",
+    "type": "Full-time",
+    "summary": "Create trusted KPI models, dashboards, and data narratives for executive and operational decision-making.",
+    "responsibilities": [
+      "Translate business questions into governed metrics and visual products",
+      "Build dashboards and semantic models",
+      "Support adoption through documentation and stakeholder enablement"
+    ],
+    "requirements": [
+      "Advanced SQL and BI tool experience",
+      "Ability to define metrics with business stakeholders",
+      "Strong visual judgment and attention to analytical clarity"
+    ]
+  }
+]

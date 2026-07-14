@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Frontend",
+    "description": "Accessible, performant interfaces for enterprise workflows and data products.",
+    "items": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Shadcn UI", "Framer Motion"]
+  },
+  {
+    "category": "Backend",
+    "description": "Reliable service architecture, APIs, integration layers, and domain platforms.",
+    "items": ["Node.js", ".NET", "Java", "Python", "FastAPI", "GraphQL", "REST"]
+  },
+  {
+    "category": "Cloud",
+    "description": "Secure cloud foundations, modernization, and scalable managed services.",
+    "items": ["AWS", "Microsoft Azure", "Google Cloud", "Cloudflare", "Serverless", "Kubernetes"]
+  },
+  {
+    "category": "AI",
+    "description": "LLM applications, assistants, agent workflows, and responsible AI productization.",
+    "items": ["OpenAI", "Azure AI", "LangChain", "LlamaIndex", "RAG", "Vector Databases"]
+  },
+  {
+    "category": "Machine Learning",
+    "description": "Predictive modeling, feature engineering, evaluation, and MLOps foundations.",
+    "items": ["Python", "scikit-learn", "PyTorch", "MLflow", "Databricks ML", "Feature Stores"]
+  },
+  {
+    "category": "Data Engineering",
+    "description": "Pipelines, warehouses, lakehouses, orchestration, lineage, and quality controls.",
+    "items": ["Snowflake", "Databricks", "dbt", "Apache Airflow", "Spark", "Kafka", "Fivetran"]
+  },
+  {
+    "category": "DevOps",
+    "description": "Release systems, infrastructure as code, observability, and reliability operations.",
+    "items": ["GitHub Actions", "Azure DevOps", "Terraform", "Docker", "Datadog", "Grafana"]
+  },
+  {
+    "category": "Databases",
+    "description": "Transactional, analytical, graph, search, and vector storage for modern systems.",
+    "items": ["PostgreSQL", "SQL Server", "MongoDB", "Redis", "BigQuery", "Pinecone", "Neo4j"]
+  },
+  {
+    "category": "Visualization",
+    "description": "Executive dashboards, analytical products, and embedded reporting interfaces.",
+    "items": ["Power BI", "Tableau", "Looker", "Sigma", "Recharts", "D3.js"]
+  }
+]

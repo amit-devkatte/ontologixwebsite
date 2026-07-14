@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "ai-ready-data-before-ai-agents",
+    "title": "AI-ready data comes before AI agents",
+    "category": "Artificial Intelligence",
+    "date": "2026-06-12",
+    "readTime": "6 min read",
+    "excerpt": "Agentic workflows need trusted knowledge, access controls, and evaluation. The strongest AI programs start with disciplined data foundations.",
+    "content": [
+      "Enterprise AI initiatives often begin with a prototype, but durable value usually depends on the data work behind the interface. Agents need current knowledge, consistent definitions, traceable sources, and clear permission boundaries.",
+      "The practical path is to identify the decisions or workflows the AI system will support, then design the smallest trusted knowledge foundation required for that context. That includes source ownership, quality checks, metadata, retrieval strategy, and human approval points.",
+      "When AI is treated as a product capability rather than a standalone experiment, teams can evaluate usefulness, accuracy, risk, adoption, and cost in the same operating rhythm."
+    ],
+    "related": ["data-platform-modernization-without-disruption", "governed-bi-metrics"]
+  },
+  {
+    "slug": "data-platform-modernization-without-disruption",
+    "title": "Modernizing data platforms without disrupting the business",
+    "category": "Data Engineering",
+    "date": "2026-05-21",
+    "readTime": "7 min read",
+    "excerpt": "A wave-based migration model helps teams retire fragile reporting stacks while protecting critical business rhythms.",
+    "content": [
+      "Modernization works best when it is tied to business priorities, not only technology replacement. The first step is to identify the reports, decisions, workflows, and regulatory outputs that cannot fail during migration.",
+      "From there, teams can sequence data domains into migration waves. Each wave should include source mapping, reconciliation, quality rules, user acceptance, access control, and cutover criteria.",
+      "This measured approach keeps leadership visibility intact while creating a more reliable foundation for analytics, automation, and AI."
+    ],
+    "related": ["governed-bi-metrics", "cloud-cost-control"]
+  },
+  {
+    "slug": "governed-bi-metrics",
+    "title": "Governed BI metrics are an operating advantage",
+    "category": "Business Intelligence",
+    "date": "2026-04-18",
+    "readTime": "5 min read",
+    "excerpt": "Consistent metric definitions reduce meeting friction and make performance conversations sharper.",
+    "content": [
+      "A dashboard is only useful when the organization trusts the definitions behind it. Revenue, margin, churn, utilization, backlog, and service levels can all carry different meanings across teams.",
+      "The answer is not more dashboards. It is a governed semantic layer with clear ownership, lineage, refresh expectations, and change control.",
+      "Once metrics are treated as shared products, business reviews become less about reconciling numbers and more about deciding what to do next."
+    ],
+    "related": ["data-platform-modernization-without-disruption", "analytics-products-executives"]
+  },
+  {
+    "slug": "analytics-products-executives",
+    "title": "Designing analytics products for executive decisions",
+    "category": "Analytics",
+    "date": "2026-03-27",
+    "readTime": "6 min read",
+    "excerpt": "Executive dashboards need narrative structure, not decorative charts. The design should move from signal to context to action.",
+    "content": [
+      "High-stakes analytics should be designed around decisions, cadence, and accountability. Executives need a clear view of what changed, why it changed, where risk is emerging, and which owner is closest to the next action.",
+      "That requires a visual hierarchy that privileges signal over density. Trend, variance, segmentation, and exception views should appear in the order the decision process needs them.",
+      "The most effective analytics products combine governed data models with interface discipline, so the experience feels calm even when the operating context is complex."
+    ],
+    "related": ["governed-bi-metrics", "ai-ready-data-before-ai-agents"]
+  },
+  {
+    "slug": "cloud-cost-control",
+    "title": "Cloud cost control starts in architecture",
+    "category": "Cloud",
+    "date": "2026-02-19",
+    "readTime": "5 min read",
+    "excerpt": "FinOps is easier when cost visibility, workload ownership, and scaling rules are designed before migration accelerates.",
+    "content": [
+      "Cloud waste is rarely caused by one large decision. It accumulates through unclear ownership, overprovisioned services, forgotten environments, and data workloads that scale without guardrails.",
+      "Cost control starts with architecture choices: environment strategy, tagging, observability, storage lifecycle, compute sizing, and release policies.",
+      "When teams can see cost by product, domain, and workload, cloud governance becomes a practical operating conversation rather than a periodic finance surprise."
+    ],
+    "related": ["data-platform-modernization-without-disruption", "ai-ready-data-before-ai-agents"]
+  }
+]

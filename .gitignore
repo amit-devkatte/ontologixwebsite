@@ -1,0 +1,12 @@
+.next/
+out/
+node_modules/
+.vercel/
+.env*
+!.env.example
+*.log
+pnpm-debug.log*
+coverage/
+dist/
+Thumbs.db
+.DS_Store

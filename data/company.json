@@ -1,0 +1,63 @@
+{
+  "mission": "To help organizations convert complex software, data, cloud, and AI challenges into dependable digital capabilities that improve decisions and operations.",
+  "vision": "To become a trusted enterprise technology partner for companies building intelligent, data-driven operating models.",
+  "values": [
+    {
+      "title": "Clarity before complexity",
+      "description": "We define the business decision, workflow, or platform outcome before choosing the technology pattern."
+    },
+    {
+      "title": "Engineering with accountability",
+      "description": "We build systems that can be maintained, observed, secured, and improved by real teams."
+    },
+    {
+      "title": "Trust in every layer",
+      "description": "From accessibility to data governance, we treat trust as a design requirement rather than a final review."
+    },
+    {
+      "title": "Pragmatic innovation",
+      "description": "We adopt AI, automation, and cloud capabilities where they create measurable value without unnecessary theatre."
+    }
+  ],
+  "journey": [
+    {
+      "year": "Foundation",
+      "title": "Data-first technology practice",
+      "description": "Ontologix established its focus on reliable data engineering, analytics, and software systems for modern businesses."
+    },
+    {
+      "year": "Platform",
+      "title": "Expansion into cloud and BI modernization",
+      "description": "The practice expanded into cloud platforms, business intelligence, workflow automation, and application modernization."
+    },
+    {
+      "year": "Intelligence",
+      "title": "AI-ready data and enterprise automation",
+      "description": "Ontologix now helps clients prepare governed data foundations for LLM applications, AI agents, and intelligent workflows."
+    }
+  ],
+  "leadership": [
+    {
+      "name": "Leadership Office",
+      "role": "Enterprise Technology Strategy",
+      "bio": "Guides client programs across software engineering, data platforms, analytics, cloud, AI readiness, and delivery governance."
+    },
+    {
+      "name": "Data & Intelligence Practice",
+      "role": "Data Engineering, BI, AI",
+      "bio": "Shapes modern data foundations, analytics products, and AI-ready architectures with a strong focus on trust and adoption."
+    },
+    {
+      "name": "Product Engineering Practice",
+      "role": "Software, Cloud, Automation",
+      "bio": "Builds secure enterprise applications, APIs, workflow systems, integrations, and cloud-native platforms."
+    }
+  ],
+  "culture": [
+    "Senior ownership on every important decision",
+    "Calm delivery rhythm with transparent communication",
+    "Strong documentation for long-term maintainability",
+    "Accessibility, security, and performance treated as baseline quality",
+    "Curiosity for the client domain before technology prescription"
+  ]
+}

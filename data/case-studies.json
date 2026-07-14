@@ -1,0 +1,71 @@
+[
+  {
+    "slug": "ai-ready-data-platform",
+    "title": "AI-ready data platform for executive intelligence",
+    "industry": "Financial services",
+    "summary": "A governed data foundation that consolidated reporting definitions and prepared high-value datasets for AI-assisted analysis.",
+    "problem": "Leadership teams were reviewing different versions of revenue, risk, and customer performance metrics across finance and operations.",
+    "challenge": "Source systems had inconsistent identifiers, duplicated transformations, undocumented spreadsheet logic, and sensitive data access requirements.",
+    "solution": "Ontologix designed a domain-led warehouse model, implemented automated quality checks, created governed metric definitions, and prepared curated datasets for AI-assisted knowledge retrieval.",
+    "architecture": ["Cloud data warehouse", "dbt transformation layer", "Role-based semantic model", "Quality validation and lineage", "AI knowledge retrieval layer"],
+    "technologies": ["Snowflake", "dbt", "Power BI", "Python", "Azure AI", "GitHub Actions"],
+    "impact": ["Reduced reconciliation effort for leadership reporting", "Improved trust in KPI definitions", "Created a controlled foundation for AI analysis"],
+    "metrics": [
+      { "value": "62%", "label": "less manual report preparation" },
+      { "value": "3x", "label": "faster executive review cycles" },
+      { "value": "40+", "label": "governed business metrics" }
+    ],
+    "featured": true
+  },
+  {
+    "slug": "manufacturing-operations-visibility",
+    "title": "Operations visibility layer for a manufacturing network",
+    "industry": "Manufacturing",
+    "summary": "A plant-level analytics system that connected production, quality, and inventory signals into one operating view.",
+    "problem": "Plant teams could not compare production performance, downtime, quality exceptions, and inventory availability without manual consolidation.",
+    "challenge": "Operational data arrived in different formats from ERP, shop-floor logs, and quality systems with inconsistent refresh windows.",
+    "solution": "Ontologix created an ingestion framework, standardized operational entities, and delivered role-based dashboards for plant leaders and central operations.",
+    "architecture": ["Operational data lake", "Scheduled ingestion pipelines", "Common manufacturing data model", "Power BI semantic layer", "Alerting for exceptions"],
+    "technologies": ["Azure Data Factory", "Databricks", "Power BI", "SQL Server", "Python"],
+    "impact": ["Improved visibility into downtime patterns", "Reduced manual reporting by plant coordinators", "Enabled faster quality issue triage"],
+    "metrics": [
+      { "value": "28%", "label": "faster issue review" },
+      { "value": "12", "label": "plant dashboards unified" },
+      { "value": "99.5%", "label": "pipeline freshness target" }
+    ]
+  },
+  {
+    "slug": "retail-customer-analytics",
+    "title": "Customer analytics engine for retail growth",
+    "industry": "Retail",
+    "summary": "A customer intelligence solution that connected commerce, loyalty, inventory, and campaign signals for growth teams.",
+    "problem": "Marketing and merchandising teams lacked a reliable customer view across online, in-store, loyalty, and campaign systems.",
+    "challenge": "Data quality varied by channel, customer identity resolution was incomplete, and campaign reporting was disconnected from margin outcomes.",
+    "solution": "Ontologix implemented customer identity rules, cohort analytics, campaign measurement, and a dashboard suite for growth planning.",
+    "architecture": ["Customer 360 model", "Identity resolution rules", "Campaign attribution marts", "Cohort analysis layer", "Executive growth dashboards"],
+    "technologies": ["BigQuery", "dbt", "Looker", "Python", "Fivetran"],
+    "impact": ["Improved visibility into customer repeat behavior", "Reduced campaign reporting delays", "Aligned marketing analysis to margin and inventory"],
+    "metrics": [
+      { "value": "45%", "label": "faster campaign reporting" },
+      { "value": "18", "label": "customer cohorts operationalized" },
+      { "value": "1", "label": "trusted customer performance view" }
+    ]
+  },
+  {
+    "slug": "workflow-automation-modernization",
+    "title": "Workflow automation for finance operations",
+    "industry": "Enterprise operations",
+    "summary": "A controlled automation program that reduced recurring manual work across approvals, data movement, and exception handling.",
+    "problem": "Finance operations depended on recurring email handoffs, manual spreadsheet updates, and late visibility into exceptions.",
+    "challenge": "The workflow included sensitive approvals, legacy file exchange, and multiple teams with different control requirements.",
+    "solution": "Ontologix mapped the process, automated data movement, introduced approval gates, and built monitoring dashboards for cycle time and exceptions.",
+    "architecture": ["Workflow orchestration", "Secure file and API integrations", "Approval control gates", "Exception queue", "Operational analytics dashboard"],
+    "technologies": ["Power Automate", "Node.js", "Azure Logic Apps", "Power BI", "SQL Server"],
+    "impact": ["Reduced repetitive handling", "Improved auditability", "Gave managers earlier visibility into process exceptions"],
+    "metrics": [
+      { "value": "35%", "label": "shorter cycle time" },
+      { "value": "70%", "label": "fewer manual touchpoints" },
+      { "value": "24/7", "label": "workflow monitoring" }
+    ]
+  }
+]

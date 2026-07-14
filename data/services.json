@@ -1,0 +1,394 @@
+[
+  {
+    "slug": "software-development",
+    "title": "Software Development",
+    "eyebrow": "Product engineering",
+    "icon": "Code2",
+    "description": "Secure, scalable business applications built with disciplined architecture and modern delivery practices.",
+    "longDescription": "Ontologix designs and builds enterprise software that is reliable under change: customer portals, internal platforms, APIs, workflow products, data-enabled applications, and cloud-native systems. We combine product thinking with engineering governance so teams receive software that is maintainable, observable, and ready for long-term ownership.",
+    "outcomes": [
+      "Modern applications aligned to measurable business workflows",
+      "Reusable API and integration layers for faster digital delivery",
+      "Engineering standards that reduce rework, defects, and operational risk"
+    ],
+    "benefits": [
+      "Domain-led discovery before implementation begins",
+      "Modular architecture with clear service boundaries",
+      "Accessible, responsive interfaces for enterprise users",
+      "Secure SDLC practices and code quality gates",
+      "Deployment patterns designed for cloud and hybrid environments"
+    ],
+    "technologies": ["Next.js", "React", "TypeScript", "Node.js", ".NET", "Java", "Python", "PostgreSQL", "Azure", "AWS"],
+    "process": [
+      {
+        "title": "Product discovery",
+        "description": "Clarify the business capability, users, constraints, integrations, risks, and success measures."
+      },
+      {
+        "title": "Architecture blueprint",
+        "description": "Define application structure, data contracts, security controls, hosting, observability, and delivery cadence."
+      },
+      {
+        "title": "Agile build",
+        "description": "Ship in controlled increments with reviews, automated checks, and stakeholder demos."
+      },
+      {
+        "title": "Operate and improve",
+        "description": "Stabilize releases with monitoring, documentation, support playbooks, and product evolution planning."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can Ontologix modernize an existing application instead of rebuilding it?",
+        "answer": "Yes. We assess the current architecture, risk profile, user journeys, and deployment model before recommending incremental modernization, selective rewrite, or platform replacement."
+      },
+      {
+        "question": "How do you protect code quality across a long program?",
+        "answer": "We use architectural decision records, TypeScript-first patterns where appropriate, automated linting and testing, pull-request reviews, security checks, and release readiness criteria."
+      }
+    ]
+  },
+  {
+    "slug": "ai-solutions",
+    "title": "AI Solutions",
+    "eyebrow": "Enterprise intelligence",
+    "icon": "BrainCircuit",
+    "description": "AI systems, LLM applications, and agentic workflows built on trusted data foundations.",
+    "longDescription": "AI becomes valuable when it is connected to governed data, clear evaluation, and business accountability. Ontologix helps organizations move from experimentation to dependable AI products: retrieval-augmented generation, AI agents, document intelligence, predictive models, and decision support systems.",
+    "outcomes": [
+      "AI use cases prioritized by business value and feasibility",
+      "LLM and agent workflows grounded in governed enterprise knowledge",
+      "Evaluation and monitoring patterns that reduce hallucination and operational risk"
+    ],
+    "benefits": [
+      "AI readiness assessments for data, security, and operating model",
+      "RAG architecture using curated knowledge sources",
+      "Human-in-the-loop workflows for sensitive decisions",
+      "Prompt, model, retrieval, and evaluation governance",
+      "Integration with business systems and automation platforms"
+    ],
+    "technologies": ["OpenAI", "Azure AI", "LangChain", "LlamaIndex", "Python", "Vector Databases", "MLflow", "Databricks", "Snowflake", "FastAPI"],
+    "process": [
+      {
+        "title": "Use-case qualification",
+        "description": "Prioritize AI opportunities by value, data readiness, risk, and adoption complexity."
+      },
+      {
+        "title": "Knowledge design",
+        "description": "Prepare source data, policies, retrieval strategy, access control, and evaluation datasets."
+      },
+      {
+        "title": "Prototype to product",
+        "description": "Build controlled pilots, measure quality, harden integrations, and define operating guardrails."
+      },
+      {
+        "title": "Continuous evaluation",
+        "description": "Monitor accuracy, latency, cost, user feedback, and safety criteria as usage grows."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do we need perfect data before starting AI?",
+        "answer": "No, but you need enough quality, context, and governance for the target use case. We identify the minimum trusted data foundation required for a safe pilot."
+      },
+      {
+        "question": "Can you build private AI assistants for internal teams?",
+        "answer": "Yes. We design assistants around authorized knowledge sources, role-based access, auditability, and workflows that keep people in control."
+      }
+    ]
+  },
+  {
+    "slug": "data-engineering",
+    "title": "Data Engineering",
+    "eyebrow": "Trusted data platforms",
+    "icon": "DatabaseZap",
+    "description": "Modern pipelines, warehouses, lakehouses, and migration programs that make data reliable at scale.",
+    "longDescription": "Ontologix builds the data foundation behind reporting, analytics, AI, and operational automation. We design ingestion, transformation, storage, lineage, data quality, orchestration, and monitoring patterns that turn scattered systems into governed data products.",
+    "outcomes": [
+      "Unified data architecture across cloud, SaaS, and operational systems",
+      "Observable pipelines with quality checks and ownership",
+      "AI-ready datasets with clear definitions, lineage, and access rules"
+    ],
+    "benefits": [
+      "Batch, streaming, and API-based ingestion strategies",
+      "Lakehouse and warehouse modeling aligned to business domains",
+      "Data migration and modernization with cutover controls",
+      "Quality validation, lineage, and failure monitoring",
+      "Cost and performance tuning for growing workloads"
+    ],
+    "technologies": ["Snowflake", "Databricks", "dbt", "Apache Airflow", "Spark", "Kafka", "Fivetran", "Azure Data Factory", "AWS Glue", "BigQuery"],
+    "process": [
+      {
+        "title": "Data estate assessment",
+        "description": "Map sources, owners, quality issues, reporting dependencies, compliance needs, and migration constraints."
+      },
+      {
+        "title": "Platform architecture",
+        "description": "Define ingestion, storage, transformation, governance, orchestration, and observability patterns."
+      },
+      {
+        "title": "Pipeline delivery",
+        "description": "Build reliable data flows with automated validation, documentation, and operational alerts."
+      },
+      {
+        "title": "Modernization rollout",
+        "description": "Migrate workloads in controlled waves with reconciliation, adoption support, and cost monitoring."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you migrate legacy reporting data into a modern platform?",
+        "answer": "Yes. We plan migration waves, reconcile historical data, preserve critical business definitions, and reduce disruption during cutover."
+      },
+      {
+        "question": "How do you make data AI-ready?",
+        "answer": "We focus on source reliability, documentation, governance, semantic meaning, quality tests, lineage, access controls, and fit-for-purpose feature or knowledge datasets."
+      }
+    ]
+  },
+  {
+    "slug": "business-intelligence",
+    "title": "Business Intelligence",
+    "eyebrow": "Executive visibility",
+    "icon": "ChartNoAxesCombined",
+    "description": "BI programs that replace conflicting reports with trusted, decision-ready performance views.",
+    "longDescription": "Ontologix creates business intelligence systems with the operating discipline enterprises need: KPI governance, semantic modeling, dashboard design, self-service analytics, adoption enablement, and performance management.",
+    "outcomes": [
+      "Consistent KPI definitions across teams and leadership levels",
+      "Role-based dashboards that clarify action, not just activity",
+      "Reduced manual reporting effort and faster operating reviews"
+    ],
+    "benefits": [
+      "Executive scorecards and operational performance dashboards",
+      "Semantic layers with governed metrics and dimensions",
+      "Self-service analytics enablement for business teams",
+      "Data storytelling and visual hierarchy for faster decisions",
+      "BI governance model for ownership, change control, and trust"
+    ],
+    "technologies": ["Power BI", "Tableau", "Looker", "Sigma", "Semantic Models", "DAX", "SQL", "dbt Metrics", "Snowflake", "Databricks"],
+    "process": [
+      {
+        "title": "Decision mapping",
+        "description": "Identify the recurring decisions, leadership rhythms, KPIs, and data definitions that matter."
+      },
+      {
+        "title": "Semantic design",
+        "description": "Create governed models that preserve metric consistency across dashboards and teams."
+      },
+      {
+        "title": "Dashboard delivery",
+        "description": "Design focused reporting experiences with visual hierarchy, accessibility, and performance in mind."
+      },
+      {
+        "title": "Adoption governance",
+        "description": "Set ownership, refresh expectations, access controls, and change management for trusted reporting."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you fix inconsistent numbers across dashboards?",
+        "answer": "Yes. We trace metric definitions, source transformations, refresh timing, and ownership gaps, then establish a governed semantic layer."
+      },
+      {
+        "question": "Do you design dashboards or only engineer the data behind them?",
+        "answer": "We do both. Strong BI requires trusted data modeling and thoughtful interface design for the decision context."
+      }
+    ]
+  },
+  {
+    "slug": "data-analytics",
+    "title": "Data Analytics & Visualization",
+    "eyebrow": "Decision science",
+    "icon": "ChartSpline",
+    "description": "Advanced analytics and visual systems that reveal performance patterns, risk, and growth opportunities.",
+    "longDescription": "Ontologix helps teams move beyond static reporting into diagnostic, predictive, and visual analytics. We build analysis workflows, visual models, experimentation frameworks, and stakeholder-ready narratives that convert complex datasets into confident decisions.",
+    "outcomes": [
+      "Clear visibility into performance drivers and operational bottlenecks",
+      "Reusable analysis workflows for finance, sales, product, and operations",
+      "Decision narratives that make complex data understandable without dilution"
+    ],
+    "benefits": [
+      "Exploratory and diagnostic analytics for high-value business questions",
+      "Forecasting, segmentation, cohort, and anomaly analysis",
+      "Premium data visualization systems for executive audiences",
+      "Experiment design and measurement frameworks",
+      "Analytics documentation that improves repeatability"
+    ],
+    "technologies": ["Python", "R", "SQL", "Power BI", "Tableau", "Looker", "Recharts", "Jupyter", "Databricks", "BigQuery"],
+    "process": [
+      {
+        "title": "Question framing",
+        "description": "Translate business ambiguity into analytical questions, hypotheses, and measurable outputs."
+      },
+      {
+        "title": "Data preparation",
+        "description": "Validate data quality, define cohorts, shape features, and align dimensions to the analysis."
+      },
+      {
+        "title": "Model and visualize",
+        "description": "Apply statistical, visual, and exploratory techniques that expose decision-relevant patterns."
+      },
+      {
+        "title": "Operationalize insight",
+        "description": "Turn findings into repeatable dashboards, workflows, alerts, or decision playbooks."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How is analytics different from BI?",
+        "answer": "BI tracks agreed performance measures. Analytics investigates why outcomes are happening and what may happen next."
+      },
+      {
+        "question": "Can you build executive-ready visualization systems?",
+        "answer": "Yes. We design visual hierarchies, interaction patterns, and data narratives that support high-stakes reviews."
+      }
+    ]
+  },
+  {
+    "slug": "automation",
+    "title": "Automation Solutions",
+    "eyebrow": "Workflow modernization",
+    "icon": "Workflow",
+    "description": "Business process automation for workflows, reporting operations, approvals, and data movement.",
+    "longDescription": "Ontologix automates repeatable work where quality, speed, and auditability matter. We redesign workflows, connect systems, automate reporting operations, orchestrate data movement, and integrate AI where it improves throughput without removing accountability.",
+    "outcomes": [
+      "Lower manual effort across recurring operational workflows",
+      "Improved consistency in approvals, reporting, and data movement",
+      "Audit-ready processes with clear ownership and monitoring"
+    ],
+    "benefits": [
+      "Workflow discovery and automation opportunity assessment",
+      "System integration using APIs, events, and secure connectors",
+      "Automated data migration and modernization routines",
+      "AI-assisted routing, summarization, and exception handling",
+      "Monitoring, logging, and human approval gates"
+    ],
+    "technologies": ["Power Automate", "n8n", "Zapier", "UiPath", "Node.js", "Python", "Azure Logic Apps", "AWS Step Functions", "REST APIs", "Message Queues"],
+    "process": [
+      {
+        "title": "Process mapping",
+        "description": "Document the current workflow, handoffs, business rules, exceptions, and cost of delay."
+      },
+      {
+        "title": "Automation design",
+        "description": "Define triggers, approvals, data contracts, exception paths, and monitoring requirements."
+      },
+      {
+        "title": "Implementation",
+        "description": "Build connectors, workflow logic, data movement, and human-in-the-loop steps."
+      },
+      {
+        "title": "Control and optimize",
+        "description": "Measure cycle time, quality, adoption, and exception volume to improve the workflow over time."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can automation connect legacy systems?",
+        "answer": "Often yes. We evaluate API availability, database access, file interfaces, security constraints, and process criticality before choosing the integration pattern."
+      },
+      {
+        "question": "Where does AI fit into automation?",
+        "answer": "AI is useful for unstructured inputs, summarization, classification, routing, and assisted decisions, while deterministic workflow logic handles repeatable control steps."
+      }
+    ]
+  },
+  {
+    "slug": "cloud-solutions",
+    "title": "Cloud Solutions",
+    "eyebrow": "Secure cloud platforms",
+    "icon": "CloudCog",
+    "description": "Cloud architecture, migration, modernization, and platform operations for secure digital scale.",
+    "longDescription": "Ontologix helps enterprises adopt cloud without losing control of cost, security, reliability, or governance. We design landing zones, migration paths, cloud-native workloads, data platforms, DevOps foundations, and operational guardrails across leading cloud ecosystems.",
+    "outcomes": [
+      "Cloud environments aligned to security, cost, and operating model",
+      "Modernized applications and data workloads with reduced technical debt",
+      "DevOps and observability patterns for dependable releases"
+    ],
+    "benefits": [
+      "Cloud readiness and migration planning",
+      "Landing zones, networking, IAM, and policy foundations",
+      "Container, serverless, and managed service architecture",
+      "FinOps, monitoring, backup, and resilience practices",
+      "Cybersecurity controls designed into platform operations"
+    ],
+    "technologies": ["AWS", "Microsoft Azure", "Google Cloud", "Kubernetes", "Docker", "Terraform", "GitHub Actions", "Azure DevOps", "Cloudflare", "Datadog"],
+    "process": [
+      {
+        "title": "Readiness assessment",
+        "description": "Evaluate workloads, dependencies, compliance requirements, cost drivers, and migration risk."
+      },
+      {
+        "title": "Cloud blueprint",
+        "description": "Design landing zones, access controls, network topology, observability, and deployment patterns."
+      },
+      {
+        "title": "Migration and build",
+        "description": "Move or modernize workloads in waves with validation, performance testing, and rollback planning."
+      },
+      {
+        "title": "Operate with governance",
+        "description": "Manage cost, resilience, security posture, monitoring, and platform evolution."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you support multi-cloud environments?",
+        "answer": "Yes. We help define which capabilities should be cloud-specific and which should be portable across environments."
+      },
+      {
+        "question": "Do cloud projects include security design?",
+        "answer": "Yes. Identity, network segmentation, secrets, logging, compliance, and incident readiness are part of the architecture conversation from the start."
+      }
+    ]
+  },
+  {
+    "slug": "consulting",
+    "title": "Enterprise Consulting",
+    "eyebrow": "Transformation leadership",
+    "icon": "BriefcaseBusiness",
+    "description": "Strategic guidance for digital transformation, data modernization, AI adoption, and enterprise architecture.",
+    "longDescription": "Ontologix works with leaders to connect technology investment to operating outcomes. We help shape roadmaps, architecture principles, delivery governance, vendor strategy, cyber risk posture, and transformation programs that can be executed by real teams under real constraints.",
+    "outcomes": [
+      "Clear technology roadmaps connected to business priorities",
+      "Architecture and delivery governance that reduces execution risk",
+      "Practical transformation plans for software, data, AI, automation, and cloud"
+    ],
+    "benefits": [
+      "Digital transformation strategy and portfolio planning",
+      "Enterprise architecture reviews and decision frameworks",
+      "AI, data, and analytics operating model design",
+      "Cybersecurity and compliance readiness guidance",
+      "Program governance, delivery metrics, and executive reporting"
+    ],
+    "technologies": ["Enterprise Architecture", "TOGAF Practices", "Agile Delivery", "Data Governance", "Cloud Strategy", "Cybersecurity Controls", "MLOps", "DevOps", "FinOps", "Change Management"],
+    "process": [
+      {
+        "title": "Current-state diagnosis",
+        "description": "Assess business priorities, technology estate, delivery constraints, data maturity, and risk exposure."
+      },
+      {
+        "title": "Target-state design",
+        "description": "Define principles, architecture options, governance, investment sequence, and decision rights."
+      },
+      {
+        "title": "Roadmap creation",
+        "description": "Build a pragmatic execution plan with milestones, dependencies, funding logic, and measurable outcomes."
+      },
+      {
+        "title": "Execution governance",
+        "description": "Support leadership cadences, delivery metrics, risk management, and roadmap adaptation."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can Ontologix advise before implementation scope is known?",
+        "answer": "Yes. Early consulting is often the best way to reduce waste, clarify the investment case, and sequence implementation safely."
+      },
+      {
+        "question": "Do you support cybersecurity planning?",
+        "answer": "Yes. We include security posture, access control, compliance, vendor risk, and operational resilience in technology strategy and architecture programs."
+      }
+    ]
+  }
+]

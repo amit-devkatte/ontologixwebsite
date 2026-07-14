@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F6F8FB"/>
+  <rect x="72" y="64" width="1056" height="502" rx="28" fill="white" stroke="#DFE5EC"/>
+  <rect x="120" y="112" width="80" height="80" rx="16" fill="#1A1A1A"/>
+  <path d="M139 152C139 139.9 148.72 130.1 160.72 130.1C169.6 130.1 177.18 135.4 180.54 142.98H170.5C168.26 140.08 164.7 138.3 160.72 138.3C153.56 138.3 147.76 144.36 147.76 152C147.76 159.68 153.56 165.76 160.72 165.76C164.86 165.76 168.56 163.82 170.86 160.6H180.7C177.48 168.56 169.66 174.16 160.72 174.16C148.72 174.16 139 164.16 139 152Z" fill="#1389C6"/>
+  <path d="M160.76 142.86H181.12V149.38H160.76C159.2 149.38 157.92 150.54 157.92 152C157.92 153.5 159.2 154.66 160.76 154.66H181.12V161.16H160.76C155.36 161.16 151 157.12 151 152C151 146.92 155.36 142.86 160.76 142.86Z" fill="#1ABCD0"/>
+  <circle cx="181.2" cy="152" r="4.1" fill="#FA740D"/>
+  <text x="230" y="148" fill="#1A1A1A" font-family="Arial, sans-serif" font-size="34" font-weight="700">Ontologix Software Pvt Ltd</text>
+  <text x="230" y="184" fill="#5C6673" font-family="Arial, sans-serif" font-size="20">Enterprise software, data engineering, analytics, AI, cloud, and automation.</text>
+  <text x="120" y="326" fill="#1A1A1A" font-family="Arial, sans-serif" font-size="58" font-weight="700">Trusted digital platforms for</text>
+  <text x="120" y="390" fill="#1389C6" font-family="Arial, sans-serif" font-size="58" font-weight="700">AI-ready enterprises.</text>
+  <rect x="742" y="222" width="306" height="220" rx="18" fill="#F6F8FB" stroke="#DFE5EC"/>
+  <path d="M788 344 C842 290 890 378 940 322 C970 288 1002 298 1022 276" stroke="#1389C6" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="790" y="390" width="206" height="14" rx="7" fill="#1ABCD0"/>
+  <rect x="790" y="420" width="150" height="14" rx="7" fill="#FA740D"/>
+  <circle cx="812" cy="274" r="18" fill="#1ABCD0"/>
+  <circle cx="988" cy="308" r="18" fill="#FA740D"/>
+</svg>

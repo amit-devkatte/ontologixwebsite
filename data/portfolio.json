@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Executive Intelligence Portal",
+    "category": "Data product",
+    "description": "A leadership portal combining KPI governance, commentary workflows, and decision-ready performance views."
+  },
+  {
+    "title": "AI Knowledge Assistant",
+    "category": "AI solution",
+    "description": "A private assistant grounded in curated enterprise documents with role-based retrieval and evaluation routines."
+  },
+  {
+    "title": "Cloud Data Lakehouse",
+    "category": "Data engineering",
+    "description": "A modern lakehouse foundation for ingestion, quality validation, transformation, lineage, and analytics consumption."
+  },
+  {
+    "title": "Workflow Automation Hub",
+    "category": "Automation",
+    "description": "A controlled workflow layer for approvals, data movement, exception handling, and operational monitoring."
+  },
+  {
+    "title": "Customer Analytics System",
+    "category": "Analytics",
+    "description": "A customer 360 and cohort analytics foundation for growth, retention, and margin decision-making."
+  },
+  {
+    "title": "Cloud Modernization Roadmap",
+    "category": "Consulting",
+    "description": "A practical migration and platform governance plan for applications, data workloads, security, and FinOps."
+  }
+]

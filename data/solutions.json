@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "manufacturing",
+    "title": "Manufacturing Intelligence",
+    "sector": "Manufacturing",
+    "description": "Connect production, quality, inventory, supplier, and finance data into operating visibility for modern plants.",
+    "priorities": ["Throughput", "Quality", "Predictive maintenance", "Inventory accuracy"],
+    "capabilities": ["Plant performance dashboards", "IoT and equipment data pipelines", "Supplier analytics", "Forecasting and anomaly detection"],
+    "outcomes": ["Lower downtime risk", "Faster root-cause analysis", "Better production planning"]
+  },
+  {
+    "slug": "healthcare",
+    "title": "Healthcare Data Platforms",
+    "sector": "Healthcare",
+    "description": "Build secure analytics foundations for patient operations, clinical performance, compliance reporting, and care coordination.",
+    "priorities": ["Data privacy", "Operational analytics", "Care pathway visibility", "Compliance reporting"],
+    "capabilities": ["Secure data integration", "Quality and claims analytics", "Role-based dashboards", "AI-ready document workflows"],
+    "outcomes": ["Improved reporting confidence", "Reduced manual consolidation", "Better operational transparency"]
+  },
+  {
+    "slug": "retail",
+    "title": "Retail & Customer Analytics",
+    "sector": "Retail",
+    "description": "Unify commerce, customer, inventory, and marketing data to improve demand decisions and customer growth.",
+    "priorities": ["Customer intelligence", "Demand forecasting", "Margin visibility", "Omnichannel reporting"],
+    "capabilities": ["Customer segmentation", "Sales and inventory dashboards", "Campaign measurement", "Merchandising analytics"],
+    "outcomes": ["Higher reporting speed", "Improved inventory decisions", "More precise customer targeting"]
+  },
+  {
+    "slug": "supply-chain",
+    "title": "Supply Chain Visibility",
+    "sector": "Supply Chain",
+    "description": "Create dependable supply chain intelligence across procurement, logistics, inventory, planning, and fulfillment.",
+    "priorities": ["Shipment visibility", "Supplier risk", "Forecast accuracy", "Cost control"],
+    "capabilities": ["Control tower dashboards", "Exception workflows", "Network analytics", "Supplier performance models"],
+    "outcomes": ["Faster exception response", "Lower reporting fragmentation", "Better service-level decisions"]
+  },
+  {
+    "slug": "education",
+    "title": "Education Technology & Analytics",
+    "sector": "Education",
+    "description": "Modernize learning platforms, institutional reporting, student engagement analytics, and administrative workflows.",
+    "priorities": ["Student outcomes", "Learning systems", "Operational reporting", "Workflow automation"],
+    "capabilities": ["Student data platforms", "Learning analytics", "Admissions dashboards", "AI knowledge assistants"],
+    "outcomes": ["Better institutional insight", "Reduced administrative load", "Improved engagement signals"]
+  },
+  {
+    "slug": "finance",
+    "title": "Finance & Risk Intelligence",
+    "sector": "Finance",
+    "description": "Create governed financial, risk, compliance, and performance data systems for faster and more trusted decisions.",
+    "priorities": ["Governed metrics", "Regulatory reporting", "Risk analytics", "Forecasting"],
+    "capabilities": ["Finance data models", "Executive scorecards", "Audit-ready lineage", "Fraud and anomaly analytics"],
+    "outcomes": ["Shorter reporting cycles", "Stronger metric trust", "Improved risk visibility"]
+  },
+  {
+    "slug": "government",
+    "title": "Government Digital Operations",
+    "sector": "Government",
+    "description": "Support public-sector modernization with secure platforms, transparent reporting, workflow automation, and citizen-service analytics.",
+    "priorities": ["Transparency", "Security", "Service delivery", "Workflow efficiency"],
+    "capabilities": ["Case management systems", "Public dashboards", "Secure integrations", "Document automation"],
+    "outcomes": ["Improved service visibility", "Reduced manual processing", "More accountable reporting"]
+  },
+  {
+    "slug": "energy",
+    "title": "Energy & Utilities Intelligence",
+    "sector": "Energy",
+    "description": "Unify asset, field, operations, customer, and sustainability data for resilient energy and utilities operations.",
+    "priorities": ["Asset reliability", "Field operations", "Demand signals", "Sustainability reporting"],
+    "capabilities": ["Asset analytics", "Operational control dashboards", "Forecasting models", "Regulatory data pipelines"],
+    "outcomes": ["Better asset decisions", "Improved operational readiness", "Trusted sustainability metrics"]
+  }
+]
